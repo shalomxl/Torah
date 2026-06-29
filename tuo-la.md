@@ -2,6 +2,8 @@
 
 🎧 **本期分享音频：** [历史的主宰（2026-06-25 周四分享）](https://raw.githubusercontent.com/shalomxl/Torah/main/audio/20260625-the-master-of-history.mp3)
 
+![妥拉](images/WechatIMG1303.jpeg)
+
 ***
 
 ## 一、妥拉的定义
