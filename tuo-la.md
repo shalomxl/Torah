@@ -1,5 +1,9 @@
 # 妥拉是什么？
 
+{% file src="https://raw.githubusercontent.com/shalomxl/Torah/main/audio/20260625-the-master-of-history.mp3" %}
+🎧 本期分享音频：历史的主宰（2026-06-25 周四分享）
+{% endfile %}
+
 ***
 
 ## 一、妥拉的定义
