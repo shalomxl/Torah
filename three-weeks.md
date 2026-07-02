@@ -12,7 +12,7 @@
 
 埃波月（五月）初九（**Tisha B'Av**，提斯拉伯月九日）是犹太历中最悲伤的日子。传统上，第一圣殿（所罗门圣殿，主前 586 年被巴比伦所毁）与第二圣殿（主后 70 年被罗马所毁）都被记念于此日被毁。本音频围绕「五月初九·第一圣殿被毁」这一主题分享。
 
-- 🎧 [下载音频：五月初九·第一圣殿被毁（.m4a，约 42 MB）](https://raw.githubusercontent.com/shalomxl/Torah/main/moadim/%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%89%E5%91%A8/20200724_%E4%BA%94%E6%9C%88%E5%88%9D%E4%B9%9D%E7%AC%AC%E4%B8%80%E5%9C%A3%E6%AE%BF%E8%A2%AB%E6%AF%81/20200724_%E4%BA%94%E6%9C%88%E5%88%9D%E4%B9%9D%E7%AC%AC%E4%B8%80%E5%9C%A3%E6%AE%BF%E8%A2%AB%E6%AF%81.m4a)
+- 🎧 [下载音频：五月初九·第一圣殿被毁（.m4a，约 42 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/three-weeks/20200724-first-temple-destroyed.m4a)
 
 ***
 
@@ -22,8 +22,8 @@
 
 塔模斯月是犹太历第四个月，月中十七日开启「困难的三周」。「塔模斯」之名源自古代美索不达米亚的神祇塔模斯（参《以西结书》8:14「妇女为塔模斯哭泣」），因此这一主题也涉及分辨异教风俗、归回洁净。本组为同一次分享的两讲：
 
-- **第 1 讲｜关于 Tammuz 塔模斯月的介绍** — 🎧 [下载（.mp3，约 4.4 MB）](https://raw.githubusercontent.com/shalomxl/Torah/main/moadim/%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%89%E5%91%A8/20240709%20%E5%91%A8%E4%BA%8C%E5%88%86%E4%BA%AB%20%E5%85%B3%E4%BA%8ETammuz%E5%A1%94%E6%A8%A1%E6%96%AF%E6%9C%88%E7%9A%84%E4%BB%8B%E7%BB%8D%26%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BB%8E%E4%BB%96%E4%BB%AC%E7%9A%84%E9%A3%8E%E4%BF%97/20240709%20%E5%91%A8%E4%BA%8C%E5%88%86%E4%BA%AB%201.%E5%85%B3%E4%BA%8ETammuz%E5%A1%94%E6%A8%A1%E6%96%AF%E6%9C%88%E7%9A%84%E4%BB%8B%E7%BB%8D.mp3)
-- **第 2 讲｜不要随从他们的风俗** — 🎧 [下载（.mp3，约 10 MB）](https://raw.githubusercontent.com/shalomxl/Torah/main/moadim/%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%89%E5%91%A8/20240709%20%E5%91%A8%E4%BA%8C%E5%88%86%E4%BA%AB%20%E5%85%B3%E4%BA%8ETammuz%E5%A1%94%E6%A8%A1%E6%96%AF%E6%9C%88%E7%9A%84%E4%BB%8B%E7%BB%8D%26%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BB%8E%E4%BB%96%E4%BB%AC%E7%9A%84%E9%A3%8E%E4%BF%97/20240709%20%E5%91%A8%E4%BA%8C%E5%88%86%E4%BA%AB%202.%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BB%8E%E4%BB%96%E4%BB%AC%E7%9A%84%E9%A3%8E%E4%BF%97.mp3)
+- **第 1 讲｜关于 Tammuz 塔模斯月的介绍** — 🎧 [下载（.mp3，约 4.4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/three-weeks/20240709-tammuz-intro.mp3)
+- **第 2 讲｜不要随从他们的风俗** — 🎧 [下载（.mp3，约 10 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/three-weeks/20240709-do-not-follow-their-customs.mp3)
 
 ***
 
@@ -33,4 +33,4 @@
 
 本讲承接上面的塔模斯月系列，为第 3 讲，主题为「渡过塔模斯月的考验」——在困难的三周期间如何持守、得胜。
 
-- 🎧 [下载：渡过塔模斯月的考验（.mp3，约 8.8 MB）](https://raw.githubusercontent.com/shalomxl/Torah/main/moadim/%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%89%E5%91%A8/20240723%20%E5%91%A8%E4%BA%8C%E5%88%86%E4%BA%AB%203.%E6%B8%A1%E8%BF%87%E5%A1%94%E6%A8%A1%E6%96%AF%E6%9C%88%E7%9A%84%E8%80%83%E9%AA%8C.mp3)
+- 🎧 [下载：渡过塔模斯月的考验（.mp3，约 8.8 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/three-weeks/20240723-passing-the-test-of-tammuz.mp3)

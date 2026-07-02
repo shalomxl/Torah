@@ -1,5 +1,7 @@
 # 妥拉是什么？
 
+🎧 **本期分享音频：** [历史的主宰（2026-06-25）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/audio/20260625-the-master-of-history.mp3)
+
 ---
 
 ## 一、妥拉的定义
