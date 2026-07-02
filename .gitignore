@@ -1,1 +1,8 @@
 .DS_Store
+
+# 音频改由 Cloudflare R2 托管，不再进 git 仓库
+*.mp3
+*.m4a
+
+# wrangler 本地缓存
+.wrangler/
