@@ -1,15 +1,12 @@
 # Table of contents
 
-* [简介](README.md)
-* [妥拉是什么？](tuo-la.md)
-
 ## 关于 TOD
 
 * [简单快速地认识教训的火炬事工](about-tod/quick-intro.md)
 
 ## 基础概念
 
-* [妥拉](basics/torah.md)
+* [妥拉是什么？](basics/torah.md)
 * [哈拉哈](basics/halacha.md)
 * [卡巴拉](basics/kabbalah.md)
 * [希伯来字母](basics/hebrew-alphabet.md)
