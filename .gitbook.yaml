@@ -1,0 +1,5 @@
+root: ./
+
+structure:
+  readme: ./about-tod/quick-intro.md
+  summary: ./SUMMARY.md
