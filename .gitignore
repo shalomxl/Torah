@@ -6,3 +6,6 @@
 
 # wrangler 本地缓存
 .wrangler/
+
+# 临时源文件夹（docx/pdf 等原件，仅本地，不入库）
+temp/
