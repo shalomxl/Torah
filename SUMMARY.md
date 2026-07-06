@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于 TOD](about-tod/quick-intro.md)
+* [简单快速地认识教训的火炬事工](about-tod/quick-intro.md "关于 TOD")
 
 ## 基础概念
 
