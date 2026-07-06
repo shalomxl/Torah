@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## 关于 TOD
 
 * [简单快速地认识教训的火炬事工](about-tod/quick-intro.md)
