@@ -4,12 +4,28 @@
 
 ## 关于 TOD
 
-Torah of doctrine
+Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教训的火炬事工](about-tod/quick-intro.md)。
 
 ## 内容目录
 
-- [妥拉是什么？](tuo-la.md) —— 妥拉的定义，以及妥拉与耶稣的联系等系统梳理。
+### 文字分享
+
+- **[基础概念](basics/README.md)**
+  - [妥拉是什么？](basics/torah.md)
+  - [哈拉哈](basics/halacha.md)
+  - [卡巴拉](basics/kabbalah.md)
+  - [希伯来字母](basics/hebrew-alphabet.md)
+  - [诫命的分类](basics/commandments-classification.md)
+  - [每年的阅读时间表](basics/annual-reading-schedule.md)
+  - [百物都可吃？日日都一样？](basics/all-foods-all-days.md)
+  - [死后上天堂？](basics/after-death-heaven.md)
+  - [救赎的焦点不是个人，而是社区](basics/redemption-community.md)
+  - [鬼魔的教训](basics/doctrines-of-demons.md)
+- **[颂祷](prayers/README.md)**
+  - [Amidah（Shemoneh Esrei 18 祷）](prayers/amidah.md)
+  - [简易每日祷告 siddur](prayers/daily-siddur.md)
 
 ### 音频分享
 
-- [困难的三周](festivals/three-weeks.md) —— 从塔模斯月十七日到埃波月初九「困难的三周」系列音频，提供下载收听。
+- **[节期](festivals/README.md)**
+  - [困难的三周](festivals/three-weeks.md) —— 从塔模斯月十七日到埃波月初九「困难的三周」系列音频，提供下载收听。
