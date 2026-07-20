@@ -10,7 +10,7 @@
 
 🎧 [下载音频（.mp3，约 13 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230321-hayesod-01.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 圣经是什么*
 
@@ -32,7 +32,7 @@
 
 🎧 [下载音频（.mp3，约 12 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230328-hayesod-02.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 教会是什么*
 
@@ -54,7 +54,7 @@
 
 🎧 [下载音频（.mp3，约 13 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230418-hayesod-03.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 {% embed url="https://www.youtube.com/watch?v=R1op1V-yrrY" %}
 
@@ -66,7 +66,7 @@
 
 🎧 [下载音频（.mp3，约 13 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230425-hayesod-04.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 有关教会的两个概念*
 
@@ -88,7 +88,7 @@
 
 🎧 [下载音频（.mp3，约 17 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230502-hayesod-05.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 不可停止聚会*
 
@@ -106,7 +106,7 @@
 
 🎧 [下载音频（.mp3，约 12 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230509-hayesod-06.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 五重职分*
 
@@ -128,7 +128,7 @@
 
 🎧 [下载音频（.mp3，约 10 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230516-hayesod-07.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 另一种福音是什么*
 
@@ -154,7 +154,7 @@
 
 🎧 [下载音频（.mp3，约 15 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230530-hayesod-08.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 {% embed url="https://www.youtube.com/watch?v=BA9ByAxXaG4" %}
 
@@ -166,7 +166,7 @@
 
 🎧 [下载音频（.mp3，约 12 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230606-hayesod-09.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 *第 1 集 · 死是好得无比的？*
 
@@ -188,7 +188,7 @@
 
 🎧 [下载音频（.mp3，约 4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/hayesod/20230613-hayesod-10.mp3)
 
-**配套视频**
+**配套 YouTube 视频**
 
 {% embed url="https://www.youtube.com/watch?v=OhvyadZJ-lA" %}
 
