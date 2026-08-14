@@ -23,4 +23,5 @@
 
 * [节期](festivals/README.md)
   * [困难的三周](festivals/three-weeks.md)
+  * [吹角节](festivals/rosh-hashanah.md)
 * [根基系列（HaYesod）](hayesod/README.md)
