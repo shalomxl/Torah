@@ -16,6 +16,8 @@ Balak 巴勒 是妥拉年度诵读周期（每年分 54 段，每周会堂诵读
 - 🎧 [下载音频：Balak 巴勒 · 2023 年 · 第1讲（.mp3，约 13.7 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/balak/2023-1.mp3)
 - 🎧 [下载音频：Balak 巴勒 · 2023 年 · 第2讲（.mp3，约 4.4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/balak/2023-2.mp3)
 
+- 🎧 [下载音频：Balak 巴勒 · 2023 年 · 补充：关于 Balak 的补充（.mp3，约 6.9 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/balak/2023-3.mp3)
+
 ## 2022 年
 - 🎧 [下载音频：Balak 巴勒 · 2022 年 · 第1讲（.mp3，约 17.6 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/balak/2022-1.mp3)
 - 🎧 [下载音频：Balak 巴勒 · 2022 年 · 第2讲（.mp3，约 1.0 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/balak/2022-2.mp3)
