@@ -1,4 +1,4 @@
-# V'zot HaBerachah 祝福
+# 54. V'zot HaBerachah 祝福
 V'zot HaBerachah 祝福 是妥拉年度诵读周期（每年分 54 段，每周会堂诵读一段）的第 54 段（parashah）。经文范围：申 33：1-34：12。以下按年份汇集该段的音频分享，年份从新到旧排列，可点击下载收听。
 ***
 
