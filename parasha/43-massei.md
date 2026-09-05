@@ -9,6 +9,10 @@ Massei 路程 是妥拉年度诵读周期（每年分 54 段，每周会堂诵�
 ## 2024 年
 - 🎧 [下载音频：Massei 路程 · 2024 年（.mp3，约 15.3 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/massei/2024-1.mp3)
 
+## 2023 年
+- 🎧 [下载音频：Massei 路程 · 2023 年（.mp3，约 14.2 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/massei/2023-1.mp3)
+- 🎧 [下载音频：Massei 路程 · 2023 年 · 补充（.mp3，约 9.8 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/massei/2023-3.mp3)
+
 ## 2022 年
 - 🎧 [下载音频：Massei 路程 · 2022 年（.mp3，约 17.4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/massei/2022-1.mp3)
 
