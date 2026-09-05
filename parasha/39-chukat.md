@@ -10,7 +10,7 @@ Chukat 律例 是妥拉年度诵读周期（每年分 54 段，每周会堂诵�
 - 🎧 [下载音频：Chukat 律例 · 2024 年（.mp3，约 11.5 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/chukat/2024-1.mp3)
 
 ## 2023 年
-- 🎧 [下载音频：Chukat 律例 · 2023 年（.mp3，约 13.7 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/chukat/2023-1.mp3)
+- 🎧 [下载音频：Chukat&Balak 律例&巴勒 · 2023 年（.mp3，约 13.7 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/chukat/2023-1.mp3)
 - 🎧 [下载音频：Chukat 律例 · 2023 年 · 补充（.mp3，约 6.9 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/chukat/2023-3.mp3)
 
 ## 2022 年
