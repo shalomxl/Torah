@@ -91,3 +91,8 @@
   * [Hayesod根基系列08(主题：福音)](hayesod/08.md)
   * [Hayesod根基系列09(主题：福音)](hayesod/09.md)
   * [Hayesod根基系列10(补充：等距字母序列密码)](hayesod/10.md)
+* [以赛亚系列](isaiah/README.md)
+  * [第 1 期 · 2026-08-22](isaiah/series-01.md)
+  * [第 2 期 · 2026-08-29](isaiah/series-02.md)
+  * [第 3 期 · 2026-09-05](isaiah/series-03.md)
+  * [专题分享](isaiah/topics.md)
