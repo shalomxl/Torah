@@ -11,3 +11,11 @@
 ## 专题分享
 
 - [专题分享（2026 年 6–8 月）](topics.md) —— 仆人之歌、童女怀孕不是记号、你需要雨水吗、Havadalla的歌、向他要一个兆头、Tanakh的编排、惩罚或者鞭打但不恐吓
+
+## 每周妥拉简介
+
+同一批聚会中顺带的每周妥拉导读（内容属每周妥拉栏目，暂列于此，日后归位）：
+
+- 🎧 [下载音频：妥拉 Ki Tetze 出去 · 简介（2026-08-22，约 1.4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/ki-teitzei/2026-1.mp3)
+- 🎧 [下载音频：妥拉 Ki Tavo 进去 · 简介（2026-08-29，约 1.0 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/ki-tavo/2026-1.mp3)
+- 🎧 [下载音频：妥拉 Nitzavim 站立 & Vayelech 他去 · 简介（2026-09-05，约 0.8 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/parasha/nitzavim/2026-1.mp3)
