@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: TOD教训的火炬
+  structure:
+    - type: space
+      key: space-1
+      title: TOD教训的火炬
+      path: docs
+      default: true
+      content:
+        directory: ./gitbook-export
