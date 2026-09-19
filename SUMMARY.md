@@ -79,6 +79,7 @@
 * [节期](festivals/README.md)
   * [困难的三周](festivals/three-weeks.md)
   * [吹角节](festivals/rosh-hashanah.md)
+    * [扭转审判的三条路径](festivals/rosh-hashanah-judgment.md)
     * [以录月](festivals/elul.md)
 * [根基系列（HaYesod）](hayesod/README.md)
   * [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
