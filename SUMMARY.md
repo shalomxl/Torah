@@ -81,7 +81,6 @@
   * [吹角节&赎罪日](festivals/high-holidays.md)
     * [以录月](festivals/elul.md)
     * [吹角节](festivals/rosh-hashanah.md)
-      * [扭转审判的三条路径](festivals/rosh-hashanah-judgment.md)
     * [赎罪日](festivals/yom-kippur.md)
 * [根基系列（HaYesod）](hayesod/README.md)
   * [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
