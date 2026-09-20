@@ -84,9 +84,11 @@ Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教
   - [54. V'zot HaBerachah 祝福](parasha/54-vzot-haberachah.md)
 - **[节期](festivals/README.md)**
   - [困难的三周](festivals/three-weeks.md) —— 从塔模斯月十七日到埃波月初九「困难的三周」系列音频，提供下载收听。
-  - [吹角节](festivals/rosh-hashanah.md)
-    - [扭转审判的三条路径](festivals/rosh-hashanah-judgment.md)
+  - [吹角节&赎罪日](festivals/high-holidays.md) —— 从以录月的预备，到吹角节的号角与赎罪日的赎罪，秋季节期的音频分享。
     - [以录月](festivals/elul.md)
+    - [吹角节](festivals/rosh-hashanah.md)
+      - [扭转审判的三条路径](festivals/rosh-hashanah-judgment.md)
+    - [赎罪日](festivals/yom-kippur.md)
 - **[根基系列（HaYesod）](hayesod/README.md)** —— 一套系统性的信仰根基教导，围绕「圣经」「教会」「福音」三大主题，共 10 集，含音频与配套视频。
   - [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
   - [Hayesod根基系列02(主题：教会)](hayesod/02.md)
