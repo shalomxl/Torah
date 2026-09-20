@@ -12,4 +12,4 @@
 
 本讲围绕吹角节的属灵意义，分享在审判的日子如何回转——「扭转审判的三条路径」。
 
-- 🎧 [下载音频：扭转审判的三条路径（.mp3，约 4.4 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/rosh-hashanah/judgment/20260915-turning-judgment.mp3)
+- 🎧 [下载音频：扭转审判的三条路径（.mp3，约 4.6 MB）](https://pub-08b87c3b3e994b51bd31c0180fa810dd.r2.dev/moadim/rosh-hashanah/judgment/20260915-turning-judgment.mp3)
