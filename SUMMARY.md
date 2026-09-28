@@ -82,6 +82,8 @@
     * [以录月](festivals/elul.md)
     * [吹角节](festivals/rosh-hashanah.md)
     * [赎罪日](festivals/yom-kippur.md)
+  * [住棚节](festivals/sukkot.md)
+  * [欢乐妥拉节](festivals/simchat-torah.md)
 * [根基系列（HaYesod）](hayesod/README.md)
   * [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
   * [Hayesod根基系列02(主题：教会)](hayesod/02.md)

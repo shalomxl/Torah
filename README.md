@@ -88,6 +88,8 @@ Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教
     - [以录月](festivals/elul.md)
     - [吹角节](festivals/rosh-hashanah.md)
     - [赎罪日](festivals/yom-kippur.md)
+  - [住棚节](festivals/sukkot.md) —— 提斯利月十五日起七日的「收藏节」，住棚、四种植物与「我们的欢乐时节」系列音频。
+  - [欢乐妥拉节](festivals/simchat-torah.md) —— 紧接住棚节，妥拉诵读周期在此收束并重新开始，绕堂欢庆的系列音频。
 - **[根基系列（HaYesod）](hayesod/README.md)** —— 一套系统性的信仰根基教导，围绕「圣经」「教会」「福音」三大主题，共 10 集，含音频与配套视频。
   - [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
   - [Hayesod根基系列02(主题：教会)](hayesod/02.md)
