@@ -102,4 +102,6 @@
   * [第 4 期 · 2026-09-08](isaiah/series-04.md)
   * [第 5 期 · 2026-09-12](isaiah/series-05.md)
   * [第 6 期 · 2026-09-19](isaiah/series-06.md)
+  * [第 7 期 · 2026-10-03](isaiah/series-07.md)
+  * [第 8 期 · 2026-10-13](isaiah/series-08.md)
   * [专题分享](isaiah/topics.md)
