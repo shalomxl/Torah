@@ -110,4 +110,6 @@ Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教
   - [第 6 期 · 2026-09-19](isaiah/series-06.md)
   - [第 7 期 · 2026-10-03](isaiah/series-07.md)
   - [第 8 期 · 2026-10-13](isaiah/series-08.md)
+  - [第 9 期 · 2026-10-20](isaiah/series-09.md)
+  - [第 10 期 · 2026-10-27](isaiah/series-10.md)
   - [专题分享](isaiah/topics.md)
