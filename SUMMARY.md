@@ -84,7 +84,7 @@
     * [赎罪日](festivals/yom-kippur.md)
   * [住棚节](festivals/sukkot.md)
   * [欢乐妥拉节](festivals/simchat-torah.md)
-  * [光明节](festivals/chanukah.md)
+  * [光明节](festivals/chanukah/README.md)
     * [2020 年](festivals/chanukah/2020.md)
     * [2021 年](festivals/chanukah/2021.md)
     * [2022 年](festivals/chanukah/2022.md)

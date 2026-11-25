@@ -90,7 +90,7 @@ Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教
     - [赎罪日](festivals/yom-kippur.md)
   - [住棚节](festivals/sukkot.md) —— 提斯利月十五日起七日的「收藏节」，住棚、四种植物与「我们的欢乐时节」系列音频。
   - [欢乐妥拉节](festivals/simchat-torah.md) —— 紧接住棚节，妥拉诵读周期在此收束并重新开始，绕堂欢庆的系列音频。
-  - [光明节](festivals/chanukah.md) —— 基斯流月二十五日起八日的献殿节，点灯、马加比起义与「油与灯」的分享，按年份分页。
+  - [光明节](festivals/chanukah/README.md) —— 基斯流月二十五日起八日的献殿节，点灯、马加比起义与「油与灯」的分享，按年份分页。
     - [2020 年](festivals/chanukah/2020.md)
     - [2021 年](festivals/chanukah/2021.md)
     - [2022 年](festivals/chanukah/2022.md)
