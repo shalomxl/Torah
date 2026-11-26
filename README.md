@@ -94,6 +94,8 @@ Torah of doctrine —— 教训的火炬事工。详见[简单快速地认识教
     - [2020 年](festivals/chanukah/2020.md)
     - [2021 年](festivals/chanukah/2021.md)
     - [2022 年](festivals/chanukah/2022.md)
+    - [2024 年](festivals/chanukah/2024.md)
+    - [2025 年](festivals/chanukah/2025.md)
 - **[根基系列（HaYesod）](hayesod/README.md)** —— 一套系统性的信仰根基教导，围绕「圣经」「教会」「福音」三大主题，共 10 集，含音频与配套视频。
   - [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
   - [Hayesod根基系列02(主题：教会)](hayesod/02.md)

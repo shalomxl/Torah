@@ -88,6 +88,8 @@
     * [2020 年](festivals/chanukah/2020.md)
     * [2021 年](festivals/chanukah/2021.md)
     * [2022 年](festivals/chanukah/2022.md)
+    * [2024 年](festivals/chanukah/2024.md)
+    * [2025 年](festivals/chanukah/2025.md)
 * [根基系列（HaYesod）](hayesod/README.md)
   * [Hayesod根基系列01(主题：圣经)](hayesod/01.md)
   * [Hayesod根基系列02(主题：教会)](hayesod/02.md)
